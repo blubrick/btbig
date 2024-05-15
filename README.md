@@ -1,10 +1,9 @@
 # btbig
 
-**btbig** is a database driven blog for gopher servers (aka a "phlog"). 
-
-It is suitable for all gopher servers which can run "moles" (dynamically 
-generated content), and support dynamic gopher menus.  Initially, this 
-will be only R-36.net's Geomyidae, and 
+**btbig** is a database driven blog* for gopher servers which can run 
+"moles" (dynamically generated content), and support dynamic gopher menus.  
+Initially, this will be only tested under Geomyidae and Gophernicus.  
+(* in the gopher world, this is called a phlog)
 
 In traditional gopher menu usage, the selectable menu options (selectors) 
 are the primary focus, and the 'i' information messages are supposed to 
